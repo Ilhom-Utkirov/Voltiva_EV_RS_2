@@ -13,6 +13,8 @@ app.register_blueprint(personalshot_bp)
 if __name__ == '__main__':
     app.run(debug=True)
 
+#     test
+
 
 
 
